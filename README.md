@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ritikroy0043" target="blank"><img src="https://img.shields.io/twitter/follow/ritikroy0043?logo=twitter&style=for-the-badge" alt="ritikroy0043" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [iritik.tech](iritik.tech)
+- 👨‍💻 All of my projects are available at [iritik.tech](https://myproweeb.netlify.app/)
 
 - 💬 Ask me about **solution of real world problems**
 
-- 📫 How to reach me **ritikroy0043@gamil.com**
+- 📫 How to reach me **ritikco387@gamil.com**
 
 - ⚡ Fun fact **I always try to laugh others**
 
